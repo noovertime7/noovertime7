@@ -9,7 +9,7 @@
 </a>
 
 <details>
-    <summary> ⚡ 最近的 Github 活动</summary>
+    <summary> ⚡ Recent Github Activity</summary>
     <br />
     <a href="https://github.com/noovertime7">
   <img src="https://activity-graph.herokuapp.com/graph?username=noovertime7&theme=dracula" />
