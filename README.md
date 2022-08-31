@@ -14,6 +14,8 @@
     <a href="https://github.com/noovertime7">
   <img src="https://activity-graph.herokuapp.com/graph?username=noovertime7&theme=dracula" />
 </details>
+<!--  贪吃蛇代码  -->
+  <div align="center"><img src="https://github.com/noovertime7/noovertime7/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 <!--
 **Ruomoe/Ruomoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
