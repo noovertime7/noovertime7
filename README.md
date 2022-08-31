@@ -7,7 +7,10 @@
 <a href="https://github.com/noovertime7">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noovertime7&layout=compact&hide=html,css&count_private=true&hide_border=true" width="400px"/>
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=noovertime7&theme=onedark"> </div>
+
+
 <!--  贪吃蛇代码  -->
   <div align="center"><img src="https://github.com/noovertime7/noovertime7/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 <details>
