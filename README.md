@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noovertime7&layout=compact&hide=html,css&count_private=true&hide_border=true" width="400px"/>
 </a>
 
-<div> <img src="https://github-profile-trophy.vercel.app/?username=noovertime7"> </div>
+<div> <img src="https://github-profile-trophy.vercel.app/?username=noovertime7&margin-w=15"> </div>
 
 
 <!--  贪吃蛇代码  -->
