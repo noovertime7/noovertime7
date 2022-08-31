@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm noovertime7</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on [gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak)
+
+- 🌱 I’m currently learning **Kubernetes**
+
+- 👯 I’m looking to collaborate on [gin-mysqlbak-agent](https://github.com/noovertime7/gin-mysqlbak-agent)
+
+- ⚡ Fun fact **I hope to never have to work overtime**
+
 
 <a href="https://github.com/noovertime7">
   <img src="https://github-readme-stats.vercel.app/api?username=noovertime7&count_private=true&show_icons=true" width="400px"/>
