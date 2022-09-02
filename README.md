@@ -17,7 +17,7 @@
 </a>
 
 <!--  奖杯  -->
-<div> <img src="https://github-profile-trophy.vercel.app/?username=noovertime7"> </div>
+<div> <img src="https://github-profile-trophy.vercel.app/?username=noovertime7&column=-1"> </div>
 
 
 <!--  贪吃蛇代码  -->
