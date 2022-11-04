@@ -1,5 +1,5 @@
 <h3 >Hi 👋, I'm noovertime7</h3>
-<img align="right" alt="noovertime7" float:left width="120px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" alt="noovertime7" float:left width="150px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 - 🔭 I’m currently working on [gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak)
 
