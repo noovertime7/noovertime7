@@ -1,11 +1,11 @@
 <h3 >Hi 👋, I'm noovertime7</h3>
 <img align="right" alt="noovertime7" float:left width="150px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-- 🔭 I’m currently working on [gin-mysqlbak](https://github.com/noovertime7/gin-mysqlbak)
+- 🔭 I’m currently working on [gin-mysqlbak](https://github.com/noovertime7/kubemonitor)
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on [gin-mysqlbak-agent](https://github.com/noovertime7/gin-mysqlbak-agent)
+- 👯 I’m looking to collaborate on [gin-mysqlbak-agent](https://github.com/noovertime7/kubemanage)
 
 - ⚡ Fun fact **I hope to never have to work overtime**
 
