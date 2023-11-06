@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [kubemonitor](https://github.com/noovertime7/kubemonitor)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**、**Rust**
 
 - 👯 I’m looking to collaborate on [kubemanage](https://github.com/noovertime7/kubemanage)
 
